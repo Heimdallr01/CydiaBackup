@@ -1,0 +1,8 @@
+Origin: Heimdallr01's Repo
+Label: Heimdallr01
+Suite: stable
+Version: 1.0
+Codename: Heimdallr01
+Architecture: iphoneos-arm
+Components: main
+Description: Heimdallr01 Repo
